@@ -71,7 +71,7 @@
                     <asp:ListItem>4</asp:ListItem>
                     <asp:ListItem>5</asp:ListItem>
                 </asp:DropDownList>
-                <asp:Button ID ="bbbb1234567" runat ="server" OnClick="bbbb1234567_Click" Text ="Search" />
+                <asp:Button ID ="BtnSearch" runat ="server" OnClick="BtnSearch_Click" Text ="Search" />
             </div>
 
             <br />
