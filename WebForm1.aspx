@@ -71,7 +71,7 @@
                     <asp:ListItem>4</asp:ListItem>
                     <asp:ListItem>5</asp:ListItem>
                 </asp:DropDownList>
-                <asp:Button ID ="BtnSearch" runat ="server" OnClick="Btnsearch12345_Click" Text ="Search" />
+                 <asp:Button ID ="BtnSearch" runat ="server" OnClick="BtnLogout_Click2" Text ="Logout" style ="background-color: DarkOrange; text-align:center; color: black; cursor: pointer; border: none;"/>
             </div>
 
             <br />
