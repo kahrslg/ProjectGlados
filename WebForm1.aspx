@@ -59,7 +59,6 @@
                 </div>
 	            <asp:Button ID ="BtnLogout" runat ="server" OnClick="BtnLogout_Click" Text ="Logout" style ="background-color: DarkOrange; text-align:center; color: black; cursor: pointer; border: none;"/>
 	        </div>
-            <asp:Button ID ="BtnSearch" runat ="server" OnClick="BtnSearch_Click" Text ="Search" />
             <div style="text-align:center">
                 <asp:TextBox ID="gameTitle" runat="server" placeholder="Game Title"></asp:TextBox>
                 <asp:TextBox ID="gameDeveloper" runat="server" placeholder="Game Developer"></asp:TextBox>
@@ -72,6 +71,7 @@
                     <asp:ListItem>4</asp:ListItem>
                     <asp:ListItem>5</asp:ListItem>
                 </asp:DropDownList>
+                <asp:Button ID ="bbbb1234567" runat ="server" OnClick="bbbb1234567_Click" Text ="Search" />
             </div>
 
             <br />
